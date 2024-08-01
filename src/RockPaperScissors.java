@@ -7,7 +7,7 @@ public class RockPaperScissors {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Welcome to Rock Paper Scissors game!");
-        System.out.println("To play this game, you need to choose a side");
+        System.out.println("To play this game, you need to choose a side. You have only 5 trials.");
 
         //  The rules of the game:
         //1. Rock crushes Scissors (Rock wins)
